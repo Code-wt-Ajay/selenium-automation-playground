@@ -8,7 +8,7 @@ This repository contains Selenium automation code along with documented test cas
 
 * **Source Code** → Located in `src/intro_selenium/
 * locators.java/...` (automation scripts for login page).
-* **Test Cases** → Detailed manual & automated test cases are documented in [`test`](./Logintestcase.md).
+* **Test Cases** → Detailed manual & automated test cases are documented in [`test`](.[/Logintestcase.md](https://github.com/Code-wt-Ajay/selenium-automation-playground/blob/main/intro_selenium/src/test/Login%20testcase.md)).
 
 ## 📖 About the Test Cases
 
@@ -25,7 +25,7 @@ Each test case follows this format:
 * **Expected Result** – What should happen
 * **Status** – Pass/Fail (automated in code or manual)
 
-👉 You can view the complete list of test cases here: [TESTCASES.md](./TESTCASES.md)
+👉 You can view the complete list of test cases here: [Login testcase.md](./Login testcase.md)
 
 
 
